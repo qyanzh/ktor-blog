@@ -1,0 +1,57 @@
+#header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+#header a:link {
+    color: white;
+}
+
+#header a:visited {
+    color: ghostwhite;
+}
+
+#nav {
+    top: 110px;
+    left: 100px;
+    width: 250px;
+    position: fixed;
+    height: 400px;
+    overflow: auto;
+}
+
+#section {
+    width: 300px;
+    margin: 0 auto;
+    position: center;
+    padding: 10px;
+}
+
+#right {
+    top: 110px;
+    right: 100px;
+    position: fixed;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    clear: both;
+    height: 20px;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
+
+table, tr, td {
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+img {
+    width: 200px
+}
