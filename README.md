@@ -17,5 +17,5 @@ gradlew run # windows
 #### visit
 
 ```
-http://localhost:3336
+http://localhost:8080
 ```
